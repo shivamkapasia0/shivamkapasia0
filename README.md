@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Shivam Kapasia! 👋></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Shivam Kapasia! 👋</h2>
 
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivamkapasia0)
 <img align='right' src="https://shivamkapasia-developer-edition.ap16.force.com/myPortfolio/resource/1623323786000/code" width="230">

@@ -13,6 +13,9 @@
 ![enter image description here](https://github-readme-streak-stats.herokuapp.com/?user=shivamkapasia0#version3)
 <hr></hr>
 
-### <center> Thanks for visiting 🙏</center>
+<center>
+<p><a href="https://github.com/shivamkapasia0" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/shivaay0o7" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/shivam-kapasia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/shivaay0o7" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=purple" /></a>
+</p> 
+</center>
 <hr>
 

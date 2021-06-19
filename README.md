@@ -12,6 +12,11 @@
 ### I am learning blog writings here -  [MyBlogs](https://github.com/shivamkapasia0/blogs/wiki)
 
 
+## Recent work:
+[Github Badge Generator](https://github.com/shivamkapasia0/Github-Badge-Generator)
+
+[Doc2PDF API](https://github.com/shivamkapasia0/Doc2PDF_API)
+
 <hr></hr>
 
 <center>
@@ -19,4 +24,7 @@
 </p> 
 </center>
 <hr>
+
+
+
 

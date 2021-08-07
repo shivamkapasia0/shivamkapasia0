@@ -9,7 +9,7 @@
 
 ![](https://img.shields.io/badge/salesforce-informational?style=flat&logo=salesforce&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Salesforce-LWC-informational?style=flat&logo=salesforce&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Salesforce-Aura-informational?style=flat&logo=salesforce&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Code-Apex-informational?style=flat&logo=java&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Code-Unity-informational?style=flat&logo=Unity&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/Rest-Api-informational?style=flat&logo=google-chrome&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Node-js-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 
-### I am learning blog writings here -  [MyBlogs](https://dev.to/shivamkapasia0)
+### I am learning blog writings here -  [dev.tp/shivamkapasia0](https://dev.to/shivamkapasia0)
 
 
 ## Recent work:

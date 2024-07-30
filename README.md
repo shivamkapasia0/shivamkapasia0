@@ -2,7 +2,7 @@
 
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivamkapasia0)
 <img align='right' src="https://shivamkapasia-developer-edition.ap16.force.com/myPortfolio/resource/1623323786000/code" width="230">
-<p><em>Salesforce Developer at <a href="http://https://www.cloudanalogy.com/">Cloud Analogy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Salesforce Developer at <a href="http://https://www.genpact.com/">Genpact</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 ##  🔧 Technologies & Tools
 
